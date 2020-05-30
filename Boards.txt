@@ -1,0 +1,4 @@
+Lyra	Draco	Ophiuchus	Cepheus	
+Ursa Minor	Hercules	Aquila	Arcturus	
+Scorpius	Cygnus	Virgo	Sagittarius	
+Ursa Major	Leo	Cassiopeia	Boötes	
